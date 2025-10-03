@@ -1,0 +1,8 @@
+This is a small showing how to make qrcode using python.
+==============================================
+
+you need to install 2 modules
+
+qrcode (pip install qrcode)
+image (pip install image)
+in the cmd
